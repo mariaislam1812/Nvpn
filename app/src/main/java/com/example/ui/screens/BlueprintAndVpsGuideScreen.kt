@@ -426,7 +426,7 @@ fun BlueprintAndVpsGuideScreen(
                     }
                     Spacer(modifier = Modifier.height(6.dp))
                     Text(
-                        text = "N VPN — Fast. Safe. Unlimited.\nDesigned for next-generation privacy, high-speed streaming, low-ping gaming, and military-grade WireGuard® & OpenVPN encryption with a strict Zero-Logs Policy.",
+                        text = "N VPN — Fast. Safe. Unlimited.\nDesigned for next-generation privacy, high-speed streaming, low-ping gaming, and military-grade WireGuard® & OpenVPN encryption with a strict Zero-Logs Policy.\n\nGitHub Repository: github.com/mariaislam1812/Nvpn",
                         style = MaterialTheme.typography.bodyMedium,
                         color = TextSecondarySlate
                     )
