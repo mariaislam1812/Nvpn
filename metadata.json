@@ -1,0 +1,6 @@
+{
+  "name": "N VPN",
+  "description": "Fast, safe, and unlimited Virtual Private Network with WireGuard & OpenVPN protocols, Smart Connect, Kill Switch, real-time speed telemetry, and full VPS architecture blueprint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
